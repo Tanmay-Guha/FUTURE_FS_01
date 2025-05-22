@@ -11,8 +11,6 @@ Welcome to my personal **Portfolio Website** (v2.0) built with modern web techno
 * [About](#about)
 * [Features](#features)
 * [Technologies Used](#technologies-used)
-* [Setup Instructions](#setup-instructions)
-* [Project Structure](#project-structure)
 * [Live Demo](#live-demo)
 * [Contact](#contact)
 * [License](#license)
